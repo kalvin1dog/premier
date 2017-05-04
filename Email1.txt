@@ -1,0 +1,33 @@
+Hi Matthew,
+
+I have rolled a new version of the prototype.
+https://flash.elanorinvestors.com/PREMIER/
+
+I have tried to do step 6, below, of
+  where you select an order to be based off (includes vehicle number and date)
+
+6.       To create a new Kitchen Order the “Sales Staff” would be presented with a screen that will need them to choose the following:
+    a.       The vehicle number that the order data is to be based off.
+    b.       The Vehicle number that the submitted order is to be submitted for.
+    c.       The date that the order form will use sales data from for the purpose of generating the base order.
+    d.       The date that the submitted order is to be submitted to the system as being for.
+
+Please note, that I have used a test Sales Staff person (ie John Brown) who has logged on,
+by default.
+
+I have entered 7 Sales Orders, for only John Brown, and he is linked to the different Vehicles on
+the same date. This would not happen in the real system, as I will check that a sales staff have only
+one vehicle for the day.
+
+This is a TEST application, as I need to link my database with all the Sales Staff login details in your
+central database.
+
+Anyway, check out the prototype, and see if OK.
+
+I have attached an Invoice for my the last 10 days.
+
+
+Regards
+Kalvin
+
+
